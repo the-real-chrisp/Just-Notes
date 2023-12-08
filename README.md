@@ -27,6 +27,10 @@ Step 4: When directed to the homepage, click Get Started
 Step 5: Enter a note title and text
 Step 6: Once BOTH fields are filled out, either click Save Note or Clear Form
 Step 7: Refresh the page to see a list of your notes
+
+![Image of deployed application](/Assets/Just-Notes-Screenshot.png)
+
+Link to Heroku: [Link](https://desolate-refuge-03784-825265cdd8ee.herokuapp.com/)
     
 ## How to Contribute
 
